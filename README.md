@@ -72,6 +72,9 @@ As previsões demonstram a aplicação prática de técnicas de machine learning
 Estudante com foco em **Análise de Dados**, **Machine Learning** e **Tecnologia**
 
 🔗 GitHub: https://github.com/guilhermebritschgy
+
+🔗 Linkedin: https://www.linkedin.com/in/guilherme-de-andrade-britschgy-35681b322
+
 ---
 
 ## 📌 Observação
